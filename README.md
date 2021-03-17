@@ -1,4 +1,25 @@
-# Unit 20 React Homework: Employee Directory
+# React Employee Directory
+
+## Description
+
+A sortable and searchable employee directory built with React JS.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+
+## Installation
+
+To install the dependencies, run the command below:
+
+```
+npm i
+```
+
+## Usage
+
+Click on a column header to sort by that column in ascending or descending order. Enter a search in the search box to query any of the columns.
 
 ## Overview
 
