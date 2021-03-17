@@ -1,5 +1,6 @@
 {
-  "name": "ground-hw-19",
+  "name": "employee_directory",
+  "homepage": "https://vpickard707.github.io/Employee_Directory/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,7 +31,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://github.com/vpickard707/Employee_Directory"
+    ]
   }
 }
